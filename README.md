@@ -219,6 +219,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 - [strix](https://github.com/usestrix/strix)：开源 AI 黑客，排查并修复你的应用程序漏洞。
 - [JoySafeter](https://github.com/jd-opensource/JoySafeter)：一款企业级智能体平台 —— 不止于对话交互，依托可视化编排实现自主智能体团队的搭建、部署、测试与全链路追踪。
 - [cai](https://github.com/aliasrobotics/cai)：Cybersecurity AI (CAI)，人工智能安全框架。
+- [Dark-Moon](https://github.com/ASCIT31/Dark-Moon)：自主式 AI 渗透测试平台与 MCP 宿主，按技术栈划分的进攻性子智能体覆盖 Web、云、Active Directory 与 Kubernetes，通过执行真实漏洞利用来验证漏洞并保留完整取证链，采用本地 14B 大模型；隐私网关确保大模型永远看不到真实 IP、主机、凭据与路径（确定性占位符在本地还原）。
 - [pentagi](https://github.com/vxcontrol/pentagi)：可执行复杂渗透测试任务的全自主智能体系统。
 - [raptor](https://github.com/gadievron/raptor)： Raptor 将 Claude Code 转化为通用型 AI 攻防安全代理。
 - [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)：MCP 服务端，可支持 Claude、GPT、Copilot 等各类 AI 智能代理自主调用 150 余款网络安全工具。
