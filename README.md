@@ -185,6 +185,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 - [augustus](https://github.com/praetorian-inc/augustus)：一款用于检测提示注入、越狱攻击与对抗攻击的大模型安全测试框架 —— 内置 190 余项测试探针、适配 28 个服务商，编译后为单个 Go 可执行文件。
 - [ai-scanner](https://github.com/0din-ai/ai-scanner)：基于 Nvidia garak 搭建的人工智能模型安全扫描工具。
 - [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard/)：腾讯朱雀实验室，AI 红队平台（Infra/MCP/Jailbreak）。
+- [redcells](https://github.com/awdemos/redcell)：自动化对抗测试平台，针对你拥有或控制的 OpenAI 兼容大语言模型执行结构化红队任务，支持迭代攻击→精炼流水线与评分面板。
 
 #### 越狱与对抗测试 _Jailbreak & Adversarial Testing_
 
