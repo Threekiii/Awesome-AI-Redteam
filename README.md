@@ -240,6 +240,7 @@ _Disclaimer: The technologies, concepts, and tools provided in this Git reposito
 
 - [android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)：Claude Code Skill，Android 反汇编与 API 提取。
 - [js-reverse-automation--skill](https://github.com/Fausto-404/js-reverse-automation--skill)：结合 chrome-devtools-mcp 的能力并加上 Skill 的规范，实现 JSRPC+Flask+autoDecoder 方案的前端 JS 逆向自动化分析，提升 JS 逆向的效率。
+- [REA](https://github.com/morluto/rea)：面向 AI 智能体的本地逆向工程 CLI 与 MCP 服务器，支持原生二进制、JavaScript/Electron 和 .NET 分析，返回证据来源与分析限制；原生深度分析需另行安装 Hopper、Ghidra 或 IDA。
 
 #### CTF _Capture the Flag_
 
